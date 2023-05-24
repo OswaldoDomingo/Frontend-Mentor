@@ -1,6 +1,6 @@
 # Frontend Mentor - Age calculator app solution
 
-This is a solution to the [Age calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Esta es una solución al [desafío de la aplicación de calculadora de edad en Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q). Los desafíos de Frontend Mentor lo ayudan a mejorar sus habilidades de codificación mediante la creación de proyectos realistas.
 
 ## Table of contents
 
@@ -19,33 +19,35 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor](http
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+## Descripción general
 
 ### The challenge
+### El reto
 
-Users should be able to:
+Los usuarios deben ser capaces de:
 
-- View an age in years, months, and days after submitting a valid date through the form
-- Receive validation errors if:
-  - Any field is empty when the form is submitted
-  - The day number is not between 1-31
-  - The month number is not between 1-12
-  - The year is in the future
-  - The date is invalid e.g. 31/04/1991 (there are 30 days in April)
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
-- **Bonus**: See the age numbers animate to their final number when the form is submitted
+- Ver una edad en años, meses y días después de enviar una fecha válida a través del formulario
+- Recibir errores de validación si:
+   - Cualquier campo está vacío cuando se envía el formulario
+   - El número de día no está entre 1-31
+   - El número del mes no está entre 1-12
+   - El año está en el futuro.
+   - La fecha no es válida, p. 31/04/1991 (hay 30 días en abril)
+- Ver el diseño óptimo para la interfaz según el tamaño de pantalla de su dispositivo
+- Vea los estados de desplazamiento y enfoque para todos los elementos interactivos en la página
+- **Bonificación**: vea los números de edad animados a su número final cuando se envía el formulario
 
 ### Screenshot
 
 ![](./screenshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+Agregue una captura de pantalla de su solución. La forma más fácil de hacer esto es usar Firefox para ver su proyecto, hacer clic derecho en la página y seleccionar "Tomar una captura de pantalla". Puede elegir una captura de pantalla de altura completa o una recortada según la longitud de la página. Si es muy largo, sería mejor recortarlo.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+Alternativamente, puede usar una herramienta como [FireShot](https://getfireshot.com/) para tomar la captura de pantalla. FireShot tiene una opción gratuita, por lo que no es necesario que la compre.
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+Luego recorta/optimiza/edita tu imagen como quieras, agrégala a tu proyecto y actualiza la ruta del archivo en la imagen de arriba.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+**Nota: elimine esta nota y los párrafos anteriores cuando agregue su captura de pantalla. Si prefiere no agregar una captura de pantalla, no dude en eliminar toda esta sección.**
 
 ### Links
 
@@ -56,22 +58,22 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Marcado HTML5 semántico
+- Propiedades personalizadas de CSS
+- Caja flexible
+- Cuadrícula CSS
+- Flujo de trabajo móvil primero
+- [Reaccionar](https://reactjs.org/) - Biblioteca JS
+- [Next.js](https://nextjs.org/) - Marco de reacción
+- [Componentes con estilo](https://styled-components.com/) - Para estilos
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+**Nota: Estos son solo ejemplos. Elimine esta nota y reemplace la lista anterior con sus propias elecciones**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Use esta sección para recapitular algunos de sus principales aprendizajes mientras trabajaba en este proyecto. Escribirlos y proporcionar ejemplos de código de las áreas que desea resaltar es una excelente manera de reforzar su propio conocimiento.
 
-To see how you can add code snippets, see below:
+Para ver cómo puede agregar fragmentos de código, consulte a continuación:
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
@@ -87,22 +89,22 @@ const proudOfThisFunc = () => {
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+Si desea obtener más ayuda para escribir Markdown, le recomendamos que consulte la [Guía de Markdown](https://www.markdownguide.org/) para obtener más información.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+**Nota: elimine esta nota y el contenido de esta sección y reemplácelos con sus propios aprendizajes.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Use esta sección para delinear las áreas en las que desea continuar enfocándose en proyectos futuros. Estos podrían ser conceptos con los que todavía no te sientes completamente cómodo o técnicas que te resultaron útiles y que deseas refinar y perfeccionar.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+**Nota: elimine esta nota y el contenido de esta sección y reemplácelos con sus propios planes para un desarrollo continuo.**
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Recurso de ejemplo 1](https://www.example.com) - Esto me ayudó por motivos XYZ. Me gustó mucho este patrón y lo usaré en el futuro.
+- [Recurso de ejemplo 2](https://www.example.com) - Este es un artículo increíble que finalmente me ayudó a comprender XYZ. Se lo recomendaría a cualquiera que aún esté aprendiendo este concepto.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+**Nota: Elimina esta nota y reemplaza la lista anterior con recursos que te ayudaron durante el desafío. Estos podrían ser útiles para cualquier persona que vea su solución o para usted mismo cuando mire hacia atrás en este proyecto en el futuro.**
 
 ## Author
 
@@ -110,10 +112,10 @@ Use this section to outline areas that you want to continue focusing on in futur
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+**Nota: elimine esta nota y agregue/elimine/edite las líneas anteriores en función de los enlaces que le gustaría compartir.**
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Aquí es donde puedes dar una propina a cualquier persona que te haya ayudado en este proyecto. Quizás trabajó en un equipo o se inspiró en la solución de otra persona. Este es el lugar perfecto para darles algo de crédito.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+**Nota: elimine esta nota y edite el contenido de esta sección según sea necesario. Si completaste este desafío por tu cuenta, no dudes en eliminar esta sección por completo.**
