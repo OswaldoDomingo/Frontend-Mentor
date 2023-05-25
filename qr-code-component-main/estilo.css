@@ -1,4 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:ital,wght@0,100;0,300;0,400;0,500;1,400;1,500&family=Besley:wght@900&family=Encode+Sans:wght@100&family=Fraunces:wght@700&family=Montserrat:wght@500;700&family=Outfit:wght@400;700&family=Poppins:ital,wght@0,700;1,400;1,800&display=swap');
+/* Front-end Style Guide
+Layout
+The designs were created to the following widths:
+Los diseños se crearon con los siguientes anchos:
+Mobile: 375px
+Desktop: 1440px
+Colors
+White: hsl(0, 0%, 100%)
+Light gray: hsl(212, 45%, 89%)
+Grayish blue: hsl(220, 15%, 55%)
+Dark blue: hsl(218, 44%, 22%)
+Typography
+Body Copy
+Font size (paragraph): 15px
+Font
+Family: Outfit
+Weights: 400, 700 */
 body{
     font-family: 'Outfit', sans-serif;
+    background-color:  hsl(220, 15%, 55%);
+}
+p{
+    font-size: 15px;
+}
+.container{
+    
 }

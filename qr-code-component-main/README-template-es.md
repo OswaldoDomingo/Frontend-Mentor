@@ -21,7 +21,8 @@ Esta es una solución al [desafío del componente de código QR en Frontend Ment
 
 ### Captura de pantalla
 
-![Imagen|200](./images/image-qr-code.png "QR")
+![Imagen|200](./design/desktop-design.jpg "QR")
+![Imagen|200](./design/desktop-preview.jpg "QR")
 
 Agregue una captura de pantalla de su solución. La forma más fácil de hacer esto es usar Firefox para ver su proyecto, hacer clic derecho en la página y seleccionar "Tomar una captura de pantalla". Puede elegir una captura de pantalla de altura completa o una recortada según la longitud de la página. Si es muy largo, sería mejor recortarlo.
 
